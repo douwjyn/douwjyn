@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # 💫 About Me:
-🌱 I’m currently learning<br>⚡ Fun fact Kim Minji is the prettiest girl I've ever seen.
+🌱 I’m currently learning  ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) <br>⚡ Fun fact Kim Minji is the prettiest girl I've ever seen.
 
 
 ## 🌐 Socials:
