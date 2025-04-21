@@ -13,8 +13,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# 💫 Hi! I'm Jyn Jo
-⚡ Fun fact Kim Minji is the prettiest girl I've ever seen.
+# 💫 JYN JO
+⚡ Fun fact NEWJEANS Kim Minji is the prettiest girl I've ever seen.
 
 
 ## 🌐 Socials:
