@@ -1,9 +1,11 @@
+
 <div align="center">
 <img src="https://i.pinimg.com/1200x/65/68/cc/6568cc0dbf3fdc5838194841deacc08a.jpg" align="center" style="width: 100%" />
 </div>  
   
 
 <br/>  
+
 
 <table><tr><td valign="top" width="33%">
 
@@ -24,6 +26,25 @@
 
 
 </td></tr></table>  
+
+<br/>  
+
+<div align="center">
+<a href="https://www.facebook.com/jo.jyn626" target="_blank">
+<img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
+</a>  
+</div>  
+  
+
+<br/>  
+
+
+
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Douwjyn&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+
+<br/>  
+
+  
 
 <br/>  
 
