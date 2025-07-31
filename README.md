@@ -4,11 +4,11 @@
 
 <br><br>
 
-<img src="https://img.shields.io/badge/C-00599C?logo=c&logoColor=white">  
-<img src="https://img.shields.io/badge/Laravel-%23FF2D20.svg?logo=laravel&logoColor=white">  
-<img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white">  
-<img src="https://img.shields.io/badge/Astro-BC52EE?logo=astro&logoColor=fff">  
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000">
+<img height="40" src="https://img.shields.io/badge/C-00599C?logo=c&logoColor=white">  
+<img height="40" src="https://img.shields.io/badge/Laravel-%23FF2D20.svg?logo=laravel&logoColor=white">  
+<img height="40" src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white">  
+<img height="40" src="https://img.shields.io/badge/Astro-BC52EE?logo=astro&logoColor=fff">  
+<img height="40" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000">
 
 <br><br>
 
